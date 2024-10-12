@@ -1,4 +1,4 @@
-# Hello! 👋 I’m Nikita Zernov
+# Hello there! 👋 I’m Nikita
 
 I'm a Machine Learning Engineer with experience in developing and deploying ML models. I specialize in Python and leveraging modern technologies for data analysis and AI model development.
 
