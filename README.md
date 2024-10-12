@@ -1,4 +1,4 @@
-# Hello! 👋 I’m Nikita
+# Hello! 👋 I’m Nikita Zernov
 
 I'm a Machine Learning Engineer with experience in developing and deploying ML models. I specialize in Python and leveraging modern technologies for data analysis and AI model development.
 
@@ -23,3 +23,4 @@ I'm a Machine Learning Engineer with experience in developing and deploying ML m
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikindrik&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikindrik&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikindrik&theme=dark)](https://git.io/streak-stats)
