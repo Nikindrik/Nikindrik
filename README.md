@@ -22,5 +22,5 @@ I'm a Machine Learning Engineer with experience in developing and deploying ML m
 
 ## 📈 Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikindrik&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikindrik&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikindrik&show_icons=true&theme=radical?v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikindrik&layout=compact&theme=radical?v=1)
