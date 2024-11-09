@@ -21,6 +21,6 @@ I'm a Machine Learning Engineer with experience in developing and deploying ML m
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23304263.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
 ## 📈 Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikindrik&show_icons=true&theme=radical?v=2&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikindrik&layout=compact&theme=radical?v=2&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikindrik&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikindrik&theme=react)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikindrik&theme=react)
