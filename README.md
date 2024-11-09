@@ -2,16 +2,18 @@
 
 I'm a Machine Learning Engineer with experience in developing and deploying ML models. I specialize in Python and leveraging modern technologies for data analysis and AI model development.
 
-## ✨ What I’m Working On:
+# ⚙️ Technologies
 
-- 🌱 Learning: **Deep Learning and advanced NLP models**
-- 👯 Looking to collaborate on: **machine learning and data analysis projects**
-- 💬 Ask me about: **machine learning, deep neural networks, data processing, and Python for ML**
-
-## 🛠️ Technologies & Tools:
+## 👨🏻‍💻 Programming
 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+## 🤖 Machine Learning
+![Static Badge](https://img.shields.io/badge/Classification)
+
+## 🛠️ Technologies & Tools:
+
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
