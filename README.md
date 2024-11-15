@@ -17,7 +17,7 @@ I'm a Machine Learning Engineer with experience in developing and deploying ML m
 ![Static Badge](https://img.shields.io/badge/Gradient_Boosting-blue)
 ![Static Badge](https://img.shields.io/badge/Ensemble_Methods-blue)
 ![Static Badge](https://img.shields.io/badge/Dimensionality_Reduction-blue)
-![Static Badge](https://img.shields.io/badge/Large_Language_Models(LLMs)-blue)
+![Static Badge](https://img.shields.io/badge/LLMs-blue)
 ![Static Badge](https://img.shields.io/badge/NLP-blue)
 ![Static Badge](https://img.shields.io/badge/Computer_Vision-blue)
 ![Static Badge](https://img.shields.io/badge/Object_Detection-blue)
