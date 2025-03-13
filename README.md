@@ -33,14 +33,6 @@ With a solid foundation in data analysis, deep learning, and NLP, I excel in tra
 ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E23?style=for-the-badge&logo=xgboost&logoColor=white)
 ![LightGBM](https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge&logo=lightgbm&logoColor=white)
 
-## ⚙️ LLM's
-
-![Llama3.1](https://img.shields.io/badge/Llama3.1-%230077B5.svg?style=for-the-badge&logo=meta&logoColor=white) 
-![Llama3.2](https://img.shields.io/badge/Llama3.2-%230077B5.svg?style=for-the-badge&logo=meta&logoColor=white)
-![Qwen2.5](https://img.shields.io/badge/Qwen2.5-%236D28D9.svg?style=for-the-badge&logo=qwen&logoColor=white)
-![Qwen2.5-Coder](https://img.shields.io/badge/Qwen2.5--Coder-%236D28D9.svg?style=for-the-badge&logo=qwen&logoColor=white)
-![T-Lite](https://img.shields.io/badge/T--Lite-%23FFDD00.svg?style=for-the-badge&logo=t&logoColor=white)  
-
 ## 🛠️ Technologies & Tools:
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
