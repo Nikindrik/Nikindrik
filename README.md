@@ -2,8 +2,6 @@
 
 I'm a Machine Learning Engineer and Data Scientist passionate about building impactful AI-driven solutions. My expertise lies in designing, training, and deploying scalable machine learning models to solve real-world problems.
 
-With a solid foundation in data analysis, deep learning, and NLP, I excel in transforming raw data into actionable insights and robust AI systems. My focus is on delivering high-quality results by combining technical excellence with a creative approach to problem-solving.
-
 # ⚙️ Technologies
 
 ## 👨🏻‍💻 Programming
@@ -44,11 +42,6 @@ With a solid foundation in data analysis, deep learning, and NLP, I excel in tra
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FF6F00.svg?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23009688.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-FFFAFA.svg?style=for-the-badge&logo=ollama&logoColor=black)
-![AnythingLLM](https://img.shields.io/badge/AnythingLLM-%234A90E2.svg?style=for-the-badge&logo=anything&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-%23FF4500.svg?style=for-the-badge&logo=vllm&logoColor=white)
 
 ## 📈 Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikindrik&theme=tokyonight)
