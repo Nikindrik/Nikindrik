@@ -2,6 +2,8 @@
 
 I'm a Machine Learning Engineer and Data Scientist passionate about building impactful AI-driven solutions. My expertise lies in designing, training, and deploying scalable machine learning models to solve real-world problems.
 
+![Fake](hello-there.gif)
+
 # ⚙️ Technologies
 
 ## 👨🏻‍💻 Programming
