@@ -6,14 +6,11 @@ Machine Learning Engineer | Data Scientist
 
 ## 🛠️ Stack
 
-![Python](https://img.shields.io/badge/Python-7986FF?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7986FF?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-7986FF?style=flat-square&logo=docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-7986FF?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-7986FF?style=flat-square&logo=tensorflow&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-7986FF?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-7986FF?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-7986FF?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ## 📊 Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikindrik&theme=tokyonight)
